@@ -5,7 +5,7 @@ const adminForm = document.getElementById('adminForm');
 const adminPanel = document.getElementById('adminPanel');
 const pendingList = document.getElementById('pendingList');
 
-const REPLIT_URL = 'https://YOUR_REPLIT_URL'; // <-- REPLACE with your backend URL
+const REPLIT_ URL=https://ai-web-builder-backend.onrender.com'; // <-- REPLACE with your backend URL
 
 requestForm.addEventListener('submit', async (e) => {
   e.preventDefault();
